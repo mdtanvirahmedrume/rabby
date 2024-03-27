@@ -22,7 +22,7 @@
 
 # direct link 
 
-https://rajpra786.github.io/Library-Management-System/index.html
+https://mdtanvirahmedrume.github.io/rabby/
 
 ---
 # Contributors
@@ -31,6 +31,7 @@ https://rajpra786.github.io/Library-Management-System/index.html
 - ##### Priya Tiru
 - ##### Rajdeep Das
 - ##### Shashank N S
+- ##### All credit goes to this Contributor's
 
 ##### Supervised By- Prof. Channappa B AKKI
 ###### Academic Year: 2018-2019
