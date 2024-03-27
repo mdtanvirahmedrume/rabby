@@ -33,5 +33,3 @@ https://mdtanvirahmedrume.github.io/rabby/
 - ##### Shashank N S
 - ##### All credit goes to this Contributor's
 
-##### Supervised By- Prof. Channappa B AKKI
-###### Academic Year: 2018-2019
